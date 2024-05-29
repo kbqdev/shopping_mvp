@@ -1,4 +1,4 @@
-package com.reproducerapp
+package com.shopping_now
 
 import android.app.Application
 import com.facebook.react.PackageList
